@@ -6,6 +6,7 @@ class Solution:
                 nums.pop(c)
             else:
                 c+=1
+        return(len(nums))
             
 
         
