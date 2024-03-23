@@ -10,10 +10,5 @@ class Solution:
             lst.append(head.val)
             head = head.next
         i, j = 0, len(lst)-1
-        while j>i:
-            if lst[j] !=lst[i]:
-                return False
-            j-=1
-            i+=1
-        return True
+        return lst == lst[::-1]
         
