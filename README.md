@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SammamMahdi/LeetCode_Solutions/tree/master/0069-sqrtx) |
+## Array
+|  |
+| ------- |
+| [0135-candy](https://github.com/SammamMahdi/LeetCode_Solutions/tree/master/0135-candy) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/SammamMahdi/LeetCode_Solutions/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
